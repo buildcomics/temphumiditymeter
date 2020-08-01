@@ -8,7 +8,8 @@ It contains arduino code in the folder named "temphumidty"
 The humidty meter is wired with one side to ground, the other one to D11.
 The temperature meter needs two pins since it shows positive and negative voltages/currents. Wire one side to D3, and the other to D9.
 The output DHT22 is connected to D2  
-More specific wireing is in the comments of the arduino code 
+Any USB power will do for powering the meters and the sensor, they only need a little bit of 5v power.
+More specific wireing is in the comments of the arduino code
 
 ## Plates
 The plates (and intermediate steps) are stored as gimp files, check https://www.gimp.org for more information about that editor, it's free!
